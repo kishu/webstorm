@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*.component.html" type="Angular2Html" />
+      <removed_mapping ext="scss" approved="true" type="Native" />
+    </extensionMap>
+  </component>
+</application>
