@@ -6,6 +6,10 @@
           <option name="url" value="http://oss.navercorp.com" />
           <option name="userName" value="kishu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="kishu" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
